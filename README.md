@@ -7,7 +7,7 @@ The program can be run by running the following on the terminal:
 
 ### Assumption: 
 
-#####In this activity I am making the followng assumptions
+##### In this activity I am making the followng assumptions
 1. All the users are registered in the database (which in this case a simple csv file). Even new customers are regsitered before there bill is processed in this system
 
 2. Two of the same items will be stored as separate entries in the bill. 
@@ -17,7 +17,7 @@ The program can be run by running the following on the terminal:
 4. Item IDs and customer IDs are unique
 
 
-#####Unit Tests: 
+##### Unit Tests: 
 
 Due to time constraints and lack of knowledge on the subject, I was unable to perform Unit Tests. However, in my program I would test the following cases: 
 Test Case 1:
