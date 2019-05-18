@@ -17,11 +17,9 @@ The program can be run by running the following on the terminal:
 4. Item IDs and customer IDs are unique
 
 
-##### Unit Tests: 
+### Unit Tests: 
 
-Due to time constraints and lack of knowledge on the subject, I was unable to perform Unit Tests. However, in my program I would test the following cases: 
-Test Case 1:
-
+##### Due to time constraints and lack of knowledge on the subject, I was unable to perform Unit Tests. However, in my program I would test the following: 
 	a) Does the program work across all Customer types: Affiliate, Employee, Customer and Loyal Customer
 	b) How does the respond if the file (containing the bill) is corrupted
 	c) What if the Database vocabulary for certain Fields (Customer Type), item IDs and Customer IDs are not ordered. 
