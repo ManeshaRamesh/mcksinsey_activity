@@ -3,16 +3,15 @@
 ### How to run the Program
 
 The program can be run by running the following on the terminal:
->>python mckinsey.py Bill<1,2,3,Custom>.txt
+python mckinsey.py Bill<1,2,3,Custom>.txt
 
 You may test the command with the provided sample bills ar you may try different combinations using the BillCustom.txt
-The bills follow the following format:
-[Customer_ID]
-[item_id],[item_name]
-[item_id],[item_name]
-.
-.
-.
+The bills follow the following format
+
+####### Customer_ID
+####### item_id,item_name
+####### item_id,item_name
+####### ...
 
 where: 
 1. Item IDs MUST be unique. 
