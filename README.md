@@ -7,9 +7,9 @@ The program can be run by running the following on the terminal:
 
 You may test the command with the provided sample bills ar you may try different combinations using the BillCustom.txt
 The bills follow the following format:
-<Customer_ID>
-<item_id>,<item_name>
-<item_id>,<item_name>
+<Customer_ID>\n
+<item_id>,<item_name>\n
+<item_id>,<item_name>\n
 .
 .
 .
