@@ -5,7 +5,7 @@
 The program can be run by running the following on the terminal:
 >>python mckinsey.py Bill<1,2,3,Custom>.txt
 
-### Assumption: 
+### Assumptions: 
 
 ##### In this activity I am making the followng assumptions
 1. All the users are registered in the database (which in this case a simple csv file). Even new customers are regsitered before there bill is processed in this system
